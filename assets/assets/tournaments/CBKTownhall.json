@@ -1,0 +1,77 @@
+{
+  "id": "CBKTownhall",
+  "name": "#CBKTownhall",
+  "description": "CBK Town Hall Tournament - 10 challenging rounds with predefined grids",
+  "rounds": [
+    {
+      "roundNumber": 1,
+      "gridSize": 3,
+      "gridValues": [5, 8, 3, 7, 2, 9, 4, 6, 1],
+      "targetNumber": 20,
+      "timeLimit": 45
+    },
+    {
+      "roundNumber": 2,
+      "gridSize": 3,
+      "gridValues": [9, 4, 11, 6, 8, 3, 12, 5, 7],
+      "targetNumber": 28,
+      "timeLimit": 40
+    },
+    {
+      "roundNumber": 3,
+      "gridSize": 4,
+      "gridValues": [8, 12, 5, 9, 15, 3, 11, 6, 7, 14, 4, 10, 2, 13, 8, 16],
+      "targetNumber": 42,
+      "timeLimit": 35
+    },
+    {
+      "roundNumber": 4,
+      "gridSize": 4,
+      "gridValues": [14, 7, 18, 5, 11, 16, 9, 12, 6, 19, 8, 15, 13, 4, 17, 10],
+      "targetNumber": 48,
+      "timeLimit": 30
+    },
+    {
+      "roundNumber": 5,
+      "gridSize": 4,
+      "gridValues": [18, 9, 14, 22, 7, 16, 5, 11, 20, 8, 15, 6, 12, 19, 10, 17],
+      "targetNumber": 55,
+      "timeLimit": 28
+    },
+    {
+      "roundNumber": 6,
+      "gridSize": 4,
+      "gridValues": [22, 15, 8, 19, 11, 24, 13, 7, 16, 9, 21, 14, 18, 6, 20, 12],
+      "targetNumber": 62,
+      "timeLimit": 26
+    },
+    {
+      "roundNumber": 7,
+      "gridSize": 5,
+      "gridValues": [18, 25, 12, 8, 22, 15, 9, 20, 14, 7, 24, 11, 16, 19, 13, 6, 21, 10, 23, 17, 5, 26, 8, 15, 19],
+      "targetNumber": 70,
+      "timeLimit": 35
+    },
+    {
+      "roundNumber": 8,
+      "gridSize": 5,
+      "gridValues": [28, 14, 22, 9, 18, 12, 25, 16, 20, 7, 19, 11, 24, 15, 8, 21, 10, 26, 13, 17, 23, 6, 19, 14, 27],
+      "targetNumber": 78,
+      "timeLimit": 32
+    },
+    {
+      "roundNumber": 9,
+      "gridSize": 5,
+      "gridValues": [32, 18, 25, 12, 28, 15, 22, 9, 19, 26, 11, 24, 16, 30, 8, 20, 14, 27, 10, 23, 17, 29, 13, 21, 7],
+      "targetNumber": 85,
+      "timeLimit": 30
+    },
+    {
+      "roundNumber": 10,
+      "gridSize": 5,
+      "gridValues": [35, 22, 18, 28, 14, 25, 12, 30, 19, 8, 27, 16, 33, 11, 24, 20, 9, 26, 15, 31, 13, 23, 17, 29, 10],
+      "targetNumber": 95,
+      "timeLimit": 28
+    }
+  ]
+}
